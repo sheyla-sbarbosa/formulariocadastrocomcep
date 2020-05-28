@@ -1,2 +1,2 @@
 # formulariocadastrocomcep
-formulário de cadastro com função CEp
+formulário de cadastro utilizando API VIACEP. 
